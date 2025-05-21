@@ -1,6 +1,7 @@
 import Header from "../../components/Header"
 import CardCarousel from "../../components/CardCarousel"
 import Footer from "../../components/Footer"
+import Head from "next/head";
 
 export default function Home() {
   return (
