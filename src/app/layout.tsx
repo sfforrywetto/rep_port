@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Audiowide, Geist, Geist_Mono } from "next/font/google";
+import { Audiowide} from "next/font/google";
 import "./globals.css";
 
 const audiowide = Audiowide({

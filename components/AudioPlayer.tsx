@@ -43,7 +43,7 @@ const RotatingCDPlayer: React.FC<RotatingCDPlayerProps> = ({ src, cdImage }) => 
   };
 
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-cenetr">
       <div
         className="w-20 h-20 rounded-full bg-cover bg-center shadow-lg cursor-pointer transition-transform duration-100"
         style={{
@@ -52,6 +52,9 @@ const RotatingCDPlayer: React.FC<RotatingCDPlayerProps> = ({ src, cdImage }) => 
         }}
         onClick={togglePlay}
       />
+      {/* <p className="mt-4 text-lg font-medium text-gray-700">
+        {isPlaying ? 'Playing...' : 'Click the CD to Play'}
+      </p> */}
     </div>
   );
 };

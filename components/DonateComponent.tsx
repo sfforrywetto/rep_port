@@ -13,7 +13,7 @@ export default function DonatePage() {
       <form className="w-full md:w-1/2 space-y-6 bg-white/60 backdrop-blur-md p-6 rounded-xl shadow-lg">
         <div className='flex justify-between'>
         <h2 className="text-2xl font-bold">Support My Work </h2>
-        <h3 className='text-l font-light'>/* Not Working At Time || Coming Soon */</h3>
+        <h3 className='text-l font-light'>Not Working At Time || Coming Soon </h3>
         </div>
 
         <div className="space-y-3">
