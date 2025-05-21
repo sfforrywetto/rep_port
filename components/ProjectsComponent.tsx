@@ -64,27 +64,27 @@ const projectData = {
   Typografie: [
     {
       title: 'Poster with Elements of GlassMorphism',
-      image: '/project_assets/typografie/New Era.png',
+      image: '/project_assets/Typografie/New Era.png',
       description: 'Simple Poster with element of Glass Morphism.'
     },
     {
       title: 'Porsche Poster',
-      image: '/project_assets/typografie/porsche.png',
+      image: '/project_assets/Typografie/porsche.png',
       description: 'Poster of Porsche 911 turbo(930).'
     },
     {
       title: 'Skate Visit Card',
-      image: '/project_assets/typografie/skate.png',
+      image: '/project_assets/Typografie/skate.png',
       description: 'Visit Card with skate brand add.'
     },
     {
       title: 'Pulp Fiction Poster',
-      image: '/project_assets/typografie/pulp.png',
+      image: '/project_assets/Typografie/pulp.png',
       description: 'Poster to film "Pulp Fiction".'
     },
     {
       title: 'Visitcard add',
-      image: '/project_assets/typografie/pulp_visit.png',
+      image: '/project_assets/Typografie/pulp_visit.png',
       description: 'Visit card Add to film "Pulp Fiction".'
     },
   ],
